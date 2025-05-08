@@ -2,11 +2,14 @@
 title: "Contact"
 ---
 
->Wolfgang Huber \
->European Molecular Biology Laboratory (EMBL) \
->Meyerhofstr. 1 \
->69117 Heidelberg \
->Germany
+>Christof Seiler \
+>Center of Experimental Rheumatology  \
+>Department of Rheumatology \
+>University Hospital Zurich, University of Zurich \
+>Bio-Technopark Schlieren-Zurich \
+>Wagistrasse 14 \
+>8952 Schlieren \
+>Switzerland
 
-Email: `wolfgang.huber <at> embl.org` \
-Bluesky: [@wkhuber.bsky.social](https://bsky.app/profile/wkhuber.bsky.social) 
+Email: `christof.seiler <at> usz.ch` \
+More: [ORCID](https://orcid.org/0000-0001-8802-3642) 

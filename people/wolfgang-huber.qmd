@@ -1,15 +1,15 @@
 ---
-title: "Wolfgang Huber"
+title: "Christof Seiler"
 description: "Group leader"
 image: "wolfgang-huber-400x400.jpg"
 ---
 
-![](wolfgang-huber-1000x700.jpg){width="500" fig-align="center"}
+![Christof Seiler](christof-seiler.jpg){width="500" fig-align="center"}
 
-> Email: [wolfgang.huber\@embl.org](mailto:wolfgang.huber@embl.org)\
-> Bluesky: [\@wkhuber.bsky.social](https://bsky.app/profile/wkhuber.bsky.social)\
-> Google Scholar: [gI8o6x8AAAAJ](https://scholar.google.com/citations?user=gI8o6x8AAAAJ&hl=en)\
-> GitHub: [wolfganghuber](https://github.com/wolfganghuber)\
+> Email: [christof.seiler\@usz.ch](mailto:christof.seiler@usz.ch)\
+> Web: [personal website](https://christofseiler.github.io)\
+> Google Scholar: [fxMt84EAAAAJ](https://scholar.google.com/citations?user=fxMt84EAAAAJ&hl=en)\
+> GitHub: [christofseiler](https://github.com/christofseiler)\
 
 ::: {.callout-note}
 My email inbox gets so many messages per day that on some days I do not manage to read or respond to all of them. My apologies in advance. If your message is important, please also consider contacting team members directly, or contacting me by other means.</font>
