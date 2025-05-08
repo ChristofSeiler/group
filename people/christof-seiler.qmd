@@ -4,7 +4,7 @@ description: "Group leader"
 image: "wolfgang-huber-400x400.jpg"
 ---
 
-![Christof Seiler](christof-seiler.jpg){width="500" fig-align="center"}
+![](christof-seiler.jpg){width="500" fig-align="center"}
 
 > Email: [christof.seiler\@usz.ch](mailto:christof.seiler@usz.ch)\
 > Web: [personal website](https://christofseiler.github.io)\
