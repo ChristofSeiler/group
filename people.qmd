@@ -29,6 +29,8 @@ format:
 
 | Name         | What they did with us | Where they moved on to; where are they are now |
 | --------------- | --------- | ----------------- |
+| **Ashkan Karimi Saber** | Master internship | Maastricht University, The Netherlands |
+| **Ming Yi** | Master thesis | |
+| **Kristian van Kuijk** | Bachelor thesis, Master internship, Master thesis | ASML, Eindhoven, The Netherlands |
 | **Marco Guazzini** | Master internship, Master thesis | Heerlen, The Netherlands |
 | **Alexander Reisach** | Master internship, Master thesis | [PhD candidate](https://scriddie.github.io) at Université Paris Cité, Paris, France |
-| **Kristian van Kuijk** | Bachelor thesis, Master internship, Master thesis | ASML, Eindhoven, The Netherlands |
