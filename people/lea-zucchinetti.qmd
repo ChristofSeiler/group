@@ -1,0 +1,11 @@
+---
+title: "Léa Zucchinetti"
+description: "Master Student"
+image: ""
+---
+
+![](){width=500 fig-align="center"}
+
+>GitLab: [lzucchine](https://gitlab.ethz.ch/lzucchine)\
+
+Léa is working estimating the causal effect of protests on media coverage.

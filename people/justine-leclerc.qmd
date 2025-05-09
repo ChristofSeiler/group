@@ -6,8 +6,8 @@ image: "justine-leclerc-480x480.jpg"
 
 ![](justine-leclerc-480x480.jpg){width=500 fig-align="center"}
 
->ORCID   [0009-0002-5667-0778](https://orcid.org/0009-0002-5667-0778)\
->LinkedIn [juslecl](https://www.linkedin.com/in/juslecl/)\
+>ORCID: [0009-0002-5667-0778](https://orcid.org/0009-0002-5667-0778)\
+>LinkedIn: [juslecl](https://www.linkedin.com/in/juslecl/)\
 
 I was born and raised in Paris, and also pursued there my bachelor, more precisely a double-degree in Mathematics and Social Sciences within Paris 1 Panthéon Sorbonne University and Sciences Po. I spent the third and last year of the bachelor at the University of Vienna. I finally came in 2023 in Zürich to complete my Master's degree in Statistics at ETH. Last autumn semester I wrote my thesis under the supervision of Prof. Dr. Fadoua Balabdaoui (Seminar für Statistik), studying linear regression with known error distribution. Goal was to challenge the traditional OLSE (not assuming anything about the noise distribution) with alternative estimators, and in particular the MLE. 
 
