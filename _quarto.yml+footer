@@ -3,12 +3,12 @@ project:
   output-dir: _site
   
 website:
-  title: "Huber Group @ EMBL"
+  title: "Seiler Group @ USZ/UZH"
   open-graph:
      locale:
        en_US
      site-name:
-       "Huber Group @ EMBL"
+       "Seiler Group @ USZ/UZH"
   navbar:
     search: true
     left:
@@ -19,7 +19,6 @@ website:
       - people.qmd
       - workwithus.qmd
       - posts.qmd
-      - events.qmd
       - contact.qmd
   page-footer:
     center: 

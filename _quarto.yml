@@ -9,12 +9,12 @@ execute:
 engine: knitr
  
 website:
-  title: "Huber Group @ EMBL"
+  title: "Seiler Group @ USZ/UZH"
   open-graph:
      locale:
        en_US
      site-name:
-       "Huber Group @ EMBL"
+       "Seiler Group @ USZ/UZH"
   navbar:
     background: "#18974C"
     foreground: "#D0DEBB"
@@ -23,12 +23,10 @@ website:
       - href: index.html
         text: "Home"
       - href: research.qmd
-        text: "Approach & Outputs"
+        text: "Projects"
       - workwithus.qmd
       - people.qmd
       - posts.qmd
-      - href: events.qmd#category=Future
-        text: "Events"
       - href: pub.qmd
         text: "Publications"
       - contact.qmd

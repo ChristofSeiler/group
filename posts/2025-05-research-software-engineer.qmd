@@ -1,13 +1,13 @@
 ---
-title: "Bioinformatician - Scientific Data Manager and Research Software Engineer"
-description: "Precision Oncology and Multiomics"
-author: "Wolfgang Huber"
-date: "2024-08-10"
+title: "Research Software Engineer"
+description: "RAI Platform"
+author: "Christof Seiler"
+date: "2025-05-10"
 categories: "Positions"
 image: "../photos/codexspots-h.jpg"
 ---
 
-> Location: Heidelberg, Germany\
+> Location: Schlieren, Switzerland\
 <!--
 > Staff Category: 4, 5, 6 depending on experience and qualifications\
 > Contract duration: until 12/2026\
