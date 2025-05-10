@@ -1,30 +1,14 @@
 ---
-title: "Approach & Outputs"
+title: "Current Projects"
 ---
 
-We exploit new data types and new types of experiments and studies by developing the computational techniques needed to turn raw data into biology.
+### RAI Platform
 
-- **Multi-scale biology in space and time**: bringing together different data types and resolutions to find low-dimensional explanations (factors, gradients, clusters, trees and networks) of high-dimensional data, using statistical models, first-principles based theory and machine learning.
-- Use **spatial omics in immunooncology** to find and improve treatment options for patients.
-- Multidimensional **phenotyping of genetic and drug-based perturbation** assays to map context-dependent gene-gene and gene-drug interaction networks.
-- Many powerful mathematical and computational ideas exist but are difficult to access. We aim to translate them into practical methods and software that make a real difference to biomedical researchers. We sometimes term this approach **translational statistics**.
+As many molecular biology labs and clinical research groups leverage modern AI systems in their workflows, we need tools that quantify their uncertainty to uphold scientific standards. In the past, we relied on statistical uncertainty quantification in the form of p-values and confidence intervals. Almost every paper reported those quantities and allowed us to judge the credibility of a research discovery. This common statistical language—although not without its critics—allowed us to focus our resources towards the most promising discoveries. How can we quantify our level of surprise of a discovery from prediction models in a similar fashion?
 
+In this project, we will build a platform that will help researchers in biomedicine to quantify uncertainty for their prediction models. We will use recent advances in statistics and machine learning—the so-called conformal prediction framework—to add prediction intervals to their models. The researchers will upload their models and part of their data on our platform website. We will then build prediction intervals for their models and deliver them back to the researchers as a download.
 
-::: {.column-margin}
-![Modern Statistics for Modern Biology textbook, with Susan Holmes: [online version](https://www.huber.embl.de/msmb/). There is also a [print version published by CUP](https://www.cambridge.org/it/universitypress/subjects/statistics-probability/statistics-life-sciences-medicine-and-health/modern-statistics-modern-biology?format=HB).](photos/MSFMB-Cover2-compressed.jpg){width=240 fig-align="center"}
-
-![Cellular neighborhood analysis of healthy and malignant lymph nodes based on single-cell resolution spatial proteomics by multiplexed immunohistochemistry.](photos/cellularneighborhoods.png){width=240 fig-align="center"}
-
-![Cluster-free differential expression analysis of sc-RNA-seq data using LEMUR. [Paper link](https://doi.org/10.1038/s41592-023-01814-1).](photos/clusterfreeDE-2048x1649.png){width=240 fig-align="center"}
-
-![Comparison of transformations for single-cell RNA-seq data. [Paper link](https://doi.org/10.1038/s41592-023-01814-1).](photos/Transformations-Fig1c.png){width=240 fig-align="center"}
-
-![Ternary plots of relative sensitivities to targeted kinase inhibitors for a cohort of primary tumour samples of chronic lymphocytic leukaemia (CLL). [Paper link](https://doi.org/10.1172/JCI93801).](photos/JCI2018-fig_02_l.jpg){width=240 fig-align="center"}
-:::
-
-### Functional precision medicine
-
-Omics and imaging technologies are producing increasingly detailed biology-based understanding of human health and disease. The next challenge is using this knowledge to engineer treatments and cures. To this end, we integrate observational data, such as from large-scale sequencing and molecular profiling, with interventional data, such as from systematic genetic or chemical screens, to reconstruct a fuller picture of the underlying causal relationships and actionable intervention points. A fascinating example is our collaboration on molecular mechanisms of individual sensitivity and resistance of tumors to treatments in our precision oncology project together with Thorsten Zenz at University Hospital Zurich and Sascha Dietrich at University Hospital Düsseldorf.
+![Our Four-Step Platform Workflow](photos/rai.png){width=640 fig-align="center"}
 
 ### Open science
 
@@ -50,26 +34,14 @@ We are a frequent contributor to the Bioconductor project
 
 |              |                                    |
 |--------------|------------------------------------|
-|[LEMUR](https://github.com/const-ae/lemur/)|Cluster-free differential expression analysis of multi-condition single-cell data using Latent Embedding Multivariate Regression|
-|[MOFA](https://biofam.github.io/MOFA2/)|Multi-Omics Factor Analysis|
-|[DESeq2](https://bioconductor.org/packages/DESeq2)|Differential gene expression analysis based on the negative binomial distribution|
-|[IHW](https://bioconductor.org/packages/IHW)|Multiple testing and false discovery rate (FDR) control by Independent Hypothesis Weighting|
-|[EBImage](https://bioconductor.org/packages/EBImage)|Image processing and analysis toolbox for R|
-|[Rarr](https://bioconductor.org/packages/Rarr)|Read Zarr Files in R|
-|[rhdf5](https://bioconductor.org/packages/rhdf5)|R Interface to HDF5|
-|[vsn](https://bioconductor.org/packages/vsn)|Normalization and variance stabilizing transformation of fluorescence intensity data|
-|[cellHTS2](https://bioconductor.org/packages/cellHTS2)|Analysis of cell-based high-throughput screens|
-|[DEXSeq](https://bioconductor.org/packages/DEXSeq)|Inference of differential exon usage in RNA-Seq|
-|[HilbertVis](https://bioconductor.org/packages/HilbertVis)|Visualize long vectors of data using Hilbert curves|
+|[cellpaintr](https://github.com/christofseiler/cellpaintr/)|Cluster-free differential expression analysis of multi-condition single-cell data using Latent Embedding Multivariate Regression|
+|[spillR](https://bioconductor.org/packages/spillR)|Multi-Omics Factor Analysis|
+|[CytoGLMM](https://bioconductor.org/packages/CytoGLMM)|Differential gene expression analysis based on the negative binomial distribution|
 | | |
 |**Python**| |
-|[HTSeq](https://htseq.readthedocs.io/en/latest/)|Processing and analyzing data from high-throughput sequencing assays|
-|[SOFA](https://github.com/tcapraz/SOFA/)|Semi-supervised (Multi) Omics Factor Analysis|
-|[spatialproteomics](https://github.com/sagar87/spatialproteomics/)|lightweight wrapper around xarray to facilitate processing, exploration and analysis of multiplexed immunohistochemistry data|
-
+|[CausalDisco](https://causaldisco.github.io/CausalDisco/)|Processing and analyzing data from high-throughput sequencing assays|
 
 : {tbl-colwidths="[24,76]"}
 
 {{< include _links.qmd >}}
 
-![The manifold hypothesis](photos/manifold-hypothesis.jpg){width=400 fig-align="center"}
