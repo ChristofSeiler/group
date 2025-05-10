@@ -1,4 +1,4 @@
-This is the source code behind <https://www.huber.embl.de/group/>, a static directory of HTML files (and resources they require).
+This is the source code behind <https://christofseiler.github.io/group/>, a static directory of HTML files (and resources they require).
 
 The following is a set of instructions for group members on how to build their own instance locally, update content, and upload to the server.
 
@@ -42,9 +42,11 @@ quarto render
 in the top-level directory of this repository.
 A directory of "static" HTML files will be created in the `_site` folder.
 
-## Upload to EMBL's webserver
+## Publish Changes
 
-Check <minio-README.md>
+```
+git push
+```
 
 ## Update the codebase in git
 

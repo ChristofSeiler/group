@@ -1,0 +1,25 @@
+---
+title: "Presentation of RAI Platform"
+description: "First Conference on Modern Benchmarking"
+author: "Christof Seiler"
+date: "2025-03-24"
+categories: "Conferences"
+image: "../photos/2024-03-24-ascona.jpg"
+---
+
+> Location: Ascona, Switzerland\
+
+## Conference
+
+We attanded the first conference on benchmarking in Ascona organized by Mark D. Robinson, Jean Yee Hwa Yang, and Serghei Mangul.
+
+![Conference group picture](../photos/2024-03-24-ascona.jpg)
+
+## Our Talk
+
+We promoted our RAI platform.
+
+## Interesting Things
+
+* Many existing platforms
+* Community is strong and very kind
