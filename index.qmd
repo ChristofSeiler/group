@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Seiler group
+title: Welcome to the Biomedical Data Science Group
 engine: knitr
 freeze: false
 ---

@@ -25,8 +25,6 @@ format:
 
 ### Alumni
 
-Sort order is approximately reverse chronological. Additional information or suggestions for updates are welcome. 
-
 | Name         | What they did with us | Where they moved on to; where are they are now |
 | --------------- | --------- | ----------------- |
 | **Ashkan Karimi Saber** | Master internship | Maastricht University, The Netherlands |

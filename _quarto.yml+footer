@@ -3,12 +3,12 @@ project:
   output-dir: _site
   
 website:
-  title: "Seiler Group @ USZ/UZH"
+  title: "Biomedical Data Science"
   open-graph:
      locale:
        en_US
      site-name:
-       "Seiler Group @ USZ/UZH"
+       "Biomedical Data Science"
   navbar:
     search: true
     left:

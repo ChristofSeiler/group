@@ -1,6 +1,6 @@
 ---
 title: "Presentation of `conformeR`"
-description: "European Bioconductor Conference"
+description: "European Bioconductor Conference 2025"
 author: "Christof Seiler"
 date: "2025-09-17"
 categories: "Conferences"
@@ -15,6 +15,6 @@ The European Bioconductor Conference (EuroBioC2025) will take place on September
 
 ![Conference group picture](../photos/EuroBioC2025logo_500x532.png)
 
-## Our Talk
+## Our Contribution
 
-We will present our new R package `conformeR`.
+Justine will present our new R package `conformeR`. Stay tuned for updates!

@@ -10,36 +10,18 @@ In this project, we will build a platform that will help researchers in biomedic
 
 ![Our Four-Step Platform Workflow](photos/rai.png){width=640 fig-align="center"}
 
-### Open science
-
-As we engage with new data types, we aim to develop high-quality computational methods of wide applicability. We consider the release and maintenance of scientific software an integral part of doing science. We contribute to the [Bioconductor] project, an open source software collaboration to provide tools for the analysis and understanding of genome-scale data. An example is our [DESeq2] package for analyzing count data from high-throughput sequencing.
-
-### Mentoring and career development
-
-Science is an intellectual adventure and a creative process done by people. For each of us, our work is at the same time, a means to achieve a scientific goal, a job that enables us pay our bills, and a stage of training and professional development. This includes student internships, BSc/MSc theses, PhD theses, postdoctoral projects. The group, and EMBL more generally, offers a well-established mentoring framework to support these triple objectives. [Former group members](people.html#alumni) have moved on to rewarding careers: professors, independent group leaders, senior management or professional scientist roles in industry.
-
-### Teaching
-
-We maintain the textbook Modern Statistics for Modern Biology by Susan Holmes and Wolfgang Huber. The book is available [online, for free, as HTML](https://www.huber.embl.de/msmb/). It was published as a [printed book in 2019 by Cambridge University Press](https://www.cambridge.org/it/universitypress/subjects/statistics-probability/statistics-life-sciences-medicine-and-health/modern-statistics-modern-biology?format=HB).
-
-We run the annual summer school CSAMA—Biological Data Science. It usually takes place in June in Brixen/Bressanone. [Here is the webpage of the 2024 edition](https://csama2024.bioconductor.eu). See [here for some impressions](https://www.huber.embl.de/group/posts/2023-06-16-csama.html).
-
-In July 2023, we co-organized the first [Biological Data Science Summer School in Ukraine, in Uzhhorod](https://www.bds3.org). See also [Wolfgang's post about it](posts/2023-07-ubds3.html). We [repeated it in July 2024](posts/2024-07-ubds3.html). We plan to do it again in July 2025.
-
-We develop publicly available interactive [training materials on statistical methods](https://www.ebi.ac.uk/training/online/courses/biostatistics-introduction/). 
-
 ### Software
 
 We are a frequent contributor to the Bioconductor project
 
 |              |                                    |
 |--------------|------------------------------------|
-|[cellpaintr](https://github.com/christofseiler/cellpaintr/)|Cluster-free differential expression analysis of multi-condition single-cell data using Latent Embedding Multivariate Regression|
-|[spillR](https://bioconductor.org/packages/spillR)|Multi-Omics Factor Analysis|
-|[CytoGLMM](https://bioconductor.org/packages/CytoGLMM)|Differential gene expression analysis based on the negative binomial distribution|
+| [cellpaintr](https://github.com/christofseiler/cellpaintr/) | Analyze CRISPR and drug perturbations with CellProfiler features |
+| [spillR](https://bioconductor.org/packages/spillR) | Nonparametric finite mixture model to compensate for spillover in mass cytometry data |
+|[CytoGLMM](https://bioconductor.org/packages/CytoGLMM) | A bootstrapped generalized linear model for mass cytometry data |
 | | |
 |**Python**| |
-|[CausalDisco](https://causaldisco.github.io/CausalDisco/)|Processing and analyzing data from high-throughput sequencing assays|
+|[CausalDisco](https://causaldisco.github.io/CausalDisco/) | Baseline algorithms and analytics tools for causal discovery |
 
 : {tbl-colwidths="[24,76]"}
 

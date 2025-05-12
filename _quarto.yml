@@ -9,12 +9,12 @@ execute:
 engine: knitr
  
 website:
-  title: "Seiler Group @ USZ/UZH"
+  title: "Biomedical Data Science Group"
   open-graph:
      locale:
        en_US
      site-name:
-       "Seiler Group @ USZ/UZH"
+       "Biomedical Data Science Group"
   navbar:
     background: "#C8E485"
     foreground: "#7CA023"
