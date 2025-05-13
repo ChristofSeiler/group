@@ -9,15 +9,15 @@ execute:
 engine: knitr
  
 website:
-  title: "Biomedical Data Science Group"
+  title: "Data Science Group"
   open-graph:
      locale:
        en_US
      site-name:
-       "Biomedical Data Science Group"
+       "Data Science Group"
   navbar:
-    background: "#C8E485"
-    foreground: "#7CA023"
+    background: "#FAFAFA"
+    foreground: "#444444"
     search: true
     left:
       - href: index.html
@@ -28,14 +28,13 @@ website:
       - people.qmd
       - posts.qmd
       - contact.qmd
-  favicon: "resources/EMBL_120x128.png"
  
 format:
   html:
     theme:
       - materia
-    linkcolor: "#7596FF"
-    toc-color: "#7596FF"
+    linkcolor: "#4994EC"
+    toc-color: "#4994EC"
     toc: true
     grid:
       sidebar-width: 150px

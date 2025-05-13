@@ -1,0 +1,20 @@
+---
+title: "Presentation of `conformeR`"
+description: "European Bioconductor Conference 2025"
+author: "Christof Seiler"
+date: "2025-05-12"
+categories: "Conferences"
+image: "../photos/EuroBioC2025logo_500x532.png"
+---
+
+> Location: Barcelona, Spain\
+
+## Conference
+
+The European Bioconductor Conference ([EuroBioC2025](https://eurobioc2025.bioconductor.org)) will take place on September 17-19, 2025, at the Barcelona Biomedical Research Park (PRBB), in Barcelona, Spain. EuroBioC2025 will bring together the Bioconductor community to showcase the latest cutting-edge developments on Bioconductor software packages, as well as on broader emerging technologies impacting computational biology.
+
+![Conference group picture](../photos/EuroBioC2025logo_500x532.png)
+
+## Our Contribution
+
+Justine will present our new R package `conformeR`. Stay tuned for updates!

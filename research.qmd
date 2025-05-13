@@ -6,7 +6,7 @@ title: "Current Projects"
 
 As many molecular biology labs and clinical research groups leverage modern AI systems in their workflows, we need tools that quantify their uncertainty to uphold scientific standards. In the past, we relied on statistical uncertainty quantification in the form of p-values and confidence intervals. Almost every paper reported those quantities and allowed us to judge the credibility of a research discovery. This common statistical language—although not without its critics—allowed us to focus our resources towards the most promising discoveries. How can we quantify our level of surprise of a discovery from prediction models in a similar fashion?
 
-In this project, we will build a platform that will help researchers in biomedicine to quantify uncertainty for their prediction models. We will use recent advances in statistics and machine learning—the so-called conformal prediction framework—to add prediction intervals to their models. The researchers will upload their models and part of their data on our platform website. We will then build prediction intervals for their models and deliver them back to the researchers as a download.
+In this project, we will build the [RAI Platform] that will help researchers in biomedicine to quantify uncertainty for their prediction models. We will use recent advances in statistics and machine learning—the so-called conformal prediction framework—to add prediction intervals to their models. The researchers will upload their models and part of their data on our platform website. We will then build prediction intervals for their models and deliver them back to the researchers as a download.
 
 ![Our Four-Step Platform Workflow](photos/rai.png){width=640 fig-align="center"}
 
@@ -16,14 +16,17 @@ We are a frequent contributor to the Bioconductor project
 
 |              |                                    |
 |--------------|------------------------------------|
-| [cellpaintr](https://github.com/christofseiler/cellpaintr/) | Analyze CRISPR and drug perturbations with CellProfiler features |
-| [spillR](https://bioconductor.org/packages/spillR) | Nonparametric finite mixture model to compensate for spillover in mass cytometry data |
-|[CytoGLMM](https://bioconductor.org/packages/CytoGLMM) | A bootstrapped generalized linear model for mass cytometry data |
+| [cellpaintr] | Analyze CRISPR and drug perturbations with CellProfiler features |
+| [spillR] | Mixture model to compensate for spillover in mass cytometry data |
+| [CytoGLMM] | A bootstrapped generalized linear model for mass cytometry data |
 | | |
 |**Python**| |
-|[CausalDisco](https://causaldisco.github.io/CausalDisco/) | Baseline algorithms and analytics tools for causal discovery |
+| [CausalDisco](https://causaldisco.github.io/CausalDisco/) | Baseline algorithms and analytics tools for causal discovery |
 
 : {tbl-colwidths="[24,76]"}
 
-{{< include _links.qmd >}}
+### Funding
 
+* The RAI Platform is funded by the [Digital Society Initiative] (DSI) Infrastructure and Lab program. The DSI shapes the digital transformation of society and science. It is the University of Zurich's competence center for digital transformation.
+
+{{< include _links.qmd >}}

@@ -1,0 +1,16 @@
+---
+title: "Women in Mathematics"
+description: "International Day of Women in Mathematics"
+author: "Christof Seiler"
+date: "2025-05-13"
+categories: "Conferences"
+image: "../photos/epfl.jpg"
+---
+
+> Location: Lausanne, Switzerland\
+
+## Conference
+
+Justine will attend the conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/) at EPFL. She received a travel award that fully covers her stay at the conference. Congrats, Justine!
+
+![EPFL Campus](../photos/epfl.jpg)

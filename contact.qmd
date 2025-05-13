@@ -6,9 +6,8 @@ title: "Contact"
 >Center of Experimental Rheumatology  \
 >Department of Rheumatology \
 >University Hospital Zurich, University of Zurich \
->Bio-Technopark Schlieren-Zurich \
->Wagistrasse 14 \
->8952 Schlieren \
+>Wagistrasse 14, 8952 Schlieren \
 >Switzerland
 
+Email: `christof.seiler <at> usz.ch` \
 Contact info: [ORCID](https://orcid.org/0000-0001-8802-3642) 

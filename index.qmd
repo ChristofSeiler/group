@@ -1,16 +1,17 @@
 ---
-title: Welcome to the Biomedical Data Science Group
+title: Welcome to the Data Science Group
 engine: knitr
 freeze: false
 ---
 
-We develop new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are also active contributors of bioinformatics software packages and maintain several R packages on Bioconductor.
+Our group is part of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center for Experimental Rheumatology.
 
 ![Group picture of the Center of Experimental Rheumatology in 2024](photos/cer_2024.jpg){width=640 fig-align="center"}
+
+The Data Science group develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are also active contributors of bioinformatics software packages and maintain several R packages on Bioconductor.
+
+We also apply statistical methods to the social sciences.
 
 <center><small>Last build: `{r} format(Sys.time(), "%d %b %Y, %H:%M %Z")`</small><center>
 
 {{< include _links.qmd >}}
-
-
-

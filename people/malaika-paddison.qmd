@@ -8,4 +8,6 @@ image: ""
 
 >LinkedIn: [malaika-paddison-514774209](https://www.linkedin.com/in/malaika-paddison-514774209/)\
 
-Malaika is working on our [cellpaintr](https://github.com/christofseiler/cellpaintr) R/Bioconductor package.
+Malaika is working on our [cellpaintr] R/Bioconductor package.
+
+{{< include ../_links.qmd >}}

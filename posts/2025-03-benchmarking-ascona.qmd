@@ -17,4 +17,4 @@ We attanded the first conference on benchmarking in Ascona organized by Mark D. 
 
 ## Our Contribution
 
-We promoted our RAI platform.
+We promoted our RAI platform. The slides are available [here](https://doi.org/10.5281/zenodo.15117913).

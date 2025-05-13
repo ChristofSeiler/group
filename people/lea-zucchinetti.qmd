@@ -8,4 +8,4 @@ image: ""
 
 >GitLab: [lzucchine](https://gitlab.ethz.ch/lzucchine)\
 
-Léa is working estimating the causal effect of protests on media coverage.
+Léa is working on estimating the causal effect of protests on media coverage.

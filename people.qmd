@@ -30,5 +30,5 @@ format:
 | **Ashkan Karimi Saber** | Master internship | Maastricht University, The Netherlands |
 | **Ming Yi** | Master thesis | |
 | **Kristian van Kuijk** | Bachelor thesis, Master internship, Master thesis | ASML, Eindhoven, The Netherlands |
-| **Marco Guazzini** | Master internship, Master thesis | Heerlen, The Netherlands |
+| **Marco Guazzini** | Master internship, Master thesis | APG Asset Management, Amsterdam, The Netherlands |
 | **Alexander Reisach** | Master internship, Master thesis | [PhD candidate](https://scriddie.github.io) at Université Paris Cité, Paris, France |
