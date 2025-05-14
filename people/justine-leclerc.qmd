@@ -4,7 +4,7 @@ description: "PhD Candidate"
 image: "justine-leclerc-480x480.jpg"
 ---
 
-![](justine-leclerc-480x480.jpg){width=500 fig-align="center"}
+![](justine-leclerc-480x480.jpg){width=300 fig-align="center"}
 
 >ORCID: [0009-0002-5667-0778](https://orcid.org/0009-0002-5667-0778)\
 >LinkedIn: [juslecl](https://www.linkedin.com/in/juslecl/)\

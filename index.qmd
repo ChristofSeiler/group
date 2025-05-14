@@ -4,7 +4,7 @@ engine: knitr
 freeze: false
 ---
 
-Our group is part of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center for Experimental Rheumatology.
+Our group is part of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.
 
 ![Group picture of the Center of Experimental Rheumatology in 2024](photos/cer_2024.jpg){width=640 fig-align="center"}
 

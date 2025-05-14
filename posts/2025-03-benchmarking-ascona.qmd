@@ -11,10 +11,10 @@ image: "../photos/2024-03-24-ascona.jpg"
 
 ## Conference
 
-We attended the first conference on benchmarking in Ascona organized by Mark D. Robinson, Jean Yee Hwa Yang, and Serghei Mangul.
+We attended the [first conference on benchmarking](https://sites.google.com/view/ascona2025) in Ascona organized by Mark D. Robinson, Jean Yee Hwa Yang, and Serghei Mangul.
 
 ![Conference group picture](../photos/2024-03-24-ascona.jpg)
 
 ## Our Contribution
 
-We promoted our RAI platform. The slides are available [here](https://doi.org/10.5281/zenodo.15117913).
+We presented our RAI platform. The slides are available [here](https://doi.org/10.5281/zenodo.15117913).
