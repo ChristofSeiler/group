@@ -18,4 +18,7 @@ Please contact Christof Seiler with your CV. We'd love to hear from you to discu
 
 ### Graduate School
 
-Please note that we usually recruit PhD candidates via the [PhD program in Epidemiology and Biostatistics](https://www.epibiostat-phd.uzh.ch/en.html). Feel free to contact Christof Seiler to discuss your application before you apply to the graduate school.
+PhD candidates will be part of a PhD program. For our group, one of the two graduate programs are usually a good fit:
+
+* PhD Program in [Epidemiology and Biostatistics](https://www.epibiostat-phd.uzh.ch/en.html)
+* PhD Program in [Data Science](https://dm3l.uzh.ch/en/studies/phdds)
