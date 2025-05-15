@@ -9,12 +9,12 @@ execute:
 engine: knitr
  
 website:
-  title: "Data Science Group"
+  title: "Reliable AI Lab"
   open-graph:
      locale:
        en_US
      site-name:
-       "Data Science Group"
+       "Reliable AI Lab"
   navbar:
     background: "#FAFAFA"
     foreground: "#444444"

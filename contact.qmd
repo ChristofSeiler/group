@@ -10,4 +10,3 @@ title: "Contact"
 >Switzerland
 
 Email: `christof.seiler <at> usz.ch` \
-Contact info: [ORCID](https://orcid.org/0000-0001-8802-3642) 

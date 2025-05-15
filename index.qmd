@@ -1,14 +1,14 @@
 ---
-title: Welcome to the Data Science Group
+title: Welcome to the Reliable AI Lab
 engine: knitr
 freeze: false
 ---
 
-Our group is part of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.
+Our lab is part of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.
 
 ![Group picture of the Center of Experimental Rheumatology in 2024](photos/cer_2024.jpg){width=640 fig-align="center"}
 
-The Data Science group develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are also active contributors of bioinformatics software packages and maintain several R packages on Bioconductor.
+The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are also active contributors of bioinformatics software packages and maintain several R packages on Bioconductor.
 
 Recently, we have also started to work on statistical methods for the social sciences.
 

@@ -25,18 +25,19 @@ format:
 
 ### Alumni
 
-| Name                     | What they did with us | Where they are now |
-| ------------------------ | --------------------- | ---------------------------------------------- |
-| **Ashkan Karimi Saber**  | Master internship | |
-| **Ming Yi**              | Master thesis | |
-| **Spyridon Giagtzoglou** | Master thesis | [PhD Candidate](https://www.maastrichtuniversity.nl/cs-giagtzoglou) at Maastricht University, The Netherlands |
-| **Sophie Tascedda**      | Master internship | PhD candidate at University Hospital Lausanne, Lausanne, Switerland |
-| **David Pomerenke**      | Master thesis     | Data Scientist at Federal Ministry for Economic Cooperation and Development, Berlin, Germany|
-| **Thomas Bahne**         | Master thesis     | |
-| **Jannik Wirtz**         | Master thesis     | AI and Computer Vision at Caterra, Zurich, Switzerland |
-| **Caio Guirado**         | Master thesis     | Applied Scientist at Uber, Amsterdam, The Netherlands |
-| **Magnus Kinder**        | Master thesis     | Data Scientist at Valkuren, Brussels, Belgium |
-| **Kristian van Kuijk**   | Bachelor thesis, Master internship, Master thesis | ASML, Eindhoven, The Netherlands |
-| **Marco Guazzini**       | Master internship, Master thesis | APG Asset Management, Amsterdam, The Netherlands |
-| **Philip Randall**       | Master thesis     | Analytics Engineer at Instaffo, Heidelberg, Germany |
-| **Alexander Reisach**    | Master internship, Master thesis | [PhD Candidate](https://scriddie.github.io) at Université Paris Cité, Paris, France |
+|                          |                       |
+| ------------------------ | --------------------- |
+| **Ashkan Karimi Saber**  | Master internship     |
+| **Ming Yi**              | Master thesis         |
+
+## Collaborators
+
+We collaborate very closely with all groups of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. We also have several external collaborations. Here is a non-exhaustive list.
+
+|                          |                       |
+| ------------------------ | --------------------- |
+| **Marco Guazzini**       | [Risk Manager](https://www.linkedin.com/in/marco-guazzini-92a9111b9/) at APG Asset Management, Amsterdam, The Netherlands |
+| **Alexander Reisach**    | [PhD Candidate](https://scriddie.github.io) at Université Paris Cité, Paris, France |
+| **Sebastian Weichwald**  | [Associate Professor](https://sweichwald.de) at University of Copenhagen, Copenhagen, Denmark |
+
+{{< include _links.qmd >}}
