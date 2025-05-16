@@ -1,8 +1,8 @@
 ---
 title: "Presentation of RAI Platform"
 description: "First Conference on Modern Benchmarking"
-author: "Christof Seiler"
-date: "2025-03-24"
+author: "Justine Leclerc"
+date: "2025-05-16"
 categories: "Conferences"
 image: "../photos/2024-03-24-ascona.jpg"
 ---
@@ -11,10 +11,15 @@ image: "../photos/2024-03-24-ascona.jpg"
 
 ## Conference
 
-We attended the [first conference on benchmarking](https://sites.google.com/view/ascona2025) in Ascona organized by Mark D. Robinson, Jean Yee Hwa Yang, and Serghei Mangul.
-
 ![Conference group picture](../photos/2024-03-24-ascona.jpg)
 
-## Our Contribution
+In March 2025, we had the privilege of attending the [Ascona Workshop]((https://sites.google.com/view/ascona2025)) to present our RAI Platform project (the slides are available at [here](https://doi.org/10.5281/zenodo.15117913)). Co-organized by Prof. Mark Robinson (University of Zurich) and Prof. Jean Yang (University of Sydney), this three-day event at Monte Verità brought together numerous contributors to scientific research.
 
-We presented our RAI platform. The slides are available [here](https://doi.org/10.5281/zenodo.15117913).
+At the heart of the conference was a shared goal: to present the latest benchmarking studies in bioinformatics, computational biology, and molecular biology, while also engaging in collective reflection on the principles and guidelines our scientific community wishes to establish for benchmarking.
+
+This reflection raised complex and essential questions: How can we ensure the scientific integrity of benchmarking studies? How can we promote transparency in data analysis and simulation procedures? How do we move toward shared evaluation standards? And more broadly, how can we foster stronger scientific collaboration and knowledge-sharing across research groups? How do we teach and convey to the next generation of researchers the tremendous value of scientific cooperation—beyond individual ambition?
+Benchmarking is a relatively new yet increasingly central area of research, playing a prominent role in recent scientific publications. A typical benchmarking study brings together a team of researchers to compare existing methods that address a specific scientific question. Based on scientifically sound and relevant evaluation criteria, each method is tested and compared using either synthetic datasets (which offer the advantage of including a known ground truth—allowing, for example, false discovery rates and true positive rates to be measured in classification tasks) or real-world datasets, which can be used for tasks such as power analysis.
+
+The contribution of benchmarking is far from negligible. It enables the scientific community to efficiently identify the most suitable method depending on the problem at hand, the resources available, and other contextual factors. Just as importantly, it helps method developers pinpoint areas where their approaches can be improved.
+
+Beyond the scientific aspects, we also enjoyed a beautiful excursion to Brissago Island, just off the coast of Ascona, where we explored its rich historical and botanical heritage. Finally, the workshop offered a fantastic opportunity to meet fellow researchers from around the world—including the US, Australia, Germany, and Spain—from early-career PhD students to renowned bioinformatics figures such as Matt Ritchie, one of the co-creators of the limma R-package, with whom I had the honor of sharing breakfast.

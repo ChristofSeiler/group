@@ -1,8 +1,8 @@
 ---
 title: "Women in Mathematics"
 description: "International Day of Women in Mathematics"
-author: "Christof Seiler"
-date: "2025-05-13"
+author: "Justine Leclerc"
+date: "2025-05-16"
 categories: "Conferences"
 image: "../photos/epfl.jpg"
 ---
@@ -11,6 +11,13 @@ image: "../photos/epfl.jpg"
 
 ## Conference
 
-Justine will attend the conference [Women in Mathematics](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/) at EPFL. She received a travel award that fully covers her stay at the conference. Congrats, Justine!
-
 ![EPFL Campus](../photos/epfl.jpg)
+
+On May 15–16, 2025, the first edition of the ["Women in Mathematics"](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/) conference took place, hosted by EPFL. The program featured two full days of inspiring talks by women in mathematics—ranging from PhD students and postdocs to full professors—who presented their current research.
+The range of topics covered highlighted the immense diversity of mathematics as a discipline: PDEs, Lie theory, biostatistics, machine learning, econometrics, functional analysis, geometry, polynomial theory, knot theory, and more. Just as impressive as the topics themselves were the backgrounds of the speakers—women from France, Italy, Russia, China, India, and Iran—each with a unique path and set of opportunities that led them to a career in mathematics.
+
+In addition to these rigorous scientific contributions, the conference hosted a roundtable featuring four established mathematicians: Francesca Da Lio (ETH Zurich), Susanna Zimmerman (University of Basel), Antonietta Mira (USI, Insubria), and Donna Testermann (EPFL). They shared candid reflections: What advice do they wish they had received as young researchers? Who inspired them? What sacrifices did they make to balance academic careers with their private lives? These are the very questions many young researchers like myself grapple with—and the insights shared during this session were deeply encouraging.
+
+Ultimately, these two days offered a meaningful opportunity to build connections with fellow young women in mathematics—to exchange ideas about our fields of research, but also about our lived experiences as women in academia.
+
+I sincerely hope the conference will return for another edition next year!

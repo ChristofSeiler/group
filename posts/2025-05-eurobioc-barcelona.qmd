@@ -11,10 +11,8 @@ image: "../photos/EuroBioC2025logo_500x532.png"
 
 ## Conference
 
-The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) will be in Barcelona this year.
+![Conference logo](../photos/EuroBioC2025logo_500x532.png){width="200" fig-align="left"}
 
-![Conference group picture](../photos/EuroBioC2025logo_500x532.png){width="300" fig-align="center"}
+The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) will be in Barcelona this year. Justine will present our new R package `conformeR` in a short talk. Congrats, Justine! 
 
-## Our Contribution
-
-Justine will present our new R package `conformeR`. Stay tuned for updates!
+Stay tuned for updates!
