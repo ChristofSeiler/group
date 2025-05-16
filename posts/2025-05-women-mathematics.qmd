@@ -11,7 +11,7 @@ image: "../photos/epfl.jpg"
 
 ## Conference
 
-![EPFL Campus](../photos/epfl.jpg)
+![EPFL campus](../photos/epfl.jpg)
 
 On May 15–16, 2025, the first edition of the ["Women in Mathematics"](https://www.epfl.ch/schools/sb/research/math/events-and-seminars/conference-women-in-mathematics/) conference took place, hosted by EPFL. The program featured two full days of inspiring talks by women in mathematics—ranging from PhD students and postdocs to full professors—who presented their current research.
 The range of topics covered highlighted the immense diversity of mathematics as a discipline: PDEs, Lie theory, biostatistics, machine learning, econometrics, functional analysis, geometry, polynomial theory, knot theory, and more. Just as impressive as the topics themselves were the backgrounds of the speakers—women from France, Italy, Russia, China, India, and Iran—each with a unique path and set of opportunities that led them to a career in mathematics.

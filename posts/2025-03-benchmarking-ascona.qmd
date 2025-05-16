@@ -13,7 +13,7 @@ image: "../photos/2024-03-24-ascona.jpg"
 
 ![Conference group picture](../photos/2024-03-24-ascona.jpg)
 
-In March 2025, we had the privilege of attending the [Ascona Workshop]((https://sites.google.com/view/ascona2025)) to present our RAI Platform project (the slides are available at [here](https://doi.org/10.5281/zenodo.15117913)). Co-organized by Prof. Mark Robinson (University of Zurich) and Prof. Jean Yang (University of Sydney), this three-day event at Monte Verità brought together numerous contributors to scientific research.
+In March 2025, we had the privilege of attending the [Ascona Workshop]((https://sites.google.com/view/ascona2025)) to present our RAI Platform project (slides are available [here](https://doi.org/10.5281/zenodo.15117913)). Co-organized by Prof. Mark Robinson (University of Zurich) and Prof. Jean Yang (University of Sydney), this three-day event at Monte Verità brought together numerous contributors to scientific research.
 
 At the heart of the conference was a shared goal: to present the latest benchmarking studies in bioinformatics, computational biology, and molecular biology, while also engaging in collective reflection on the principles and guidelines our scientific community wishes to establish for benchmarking.
 

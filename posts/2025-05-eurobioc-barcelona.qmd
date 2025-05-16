@@ -4,14 +4,14 @@ description: "European Bioconductor Conference 2025"
 author: "Christof Seiler"
 date: "2025-05-12"
 categories: "Conferences"
-image: "../photos/EuroBioC2025logo_500x532.png"
+image: "../photos/prbb_beach.png"
 ---
 
 > Location: Barcelona, Spain\
 
 ## Conference
 
-![Conference logo](../photos/EuroBioC2025logo_500x532.png){width="200" fig-align="left"}
+![Conference venue](../photos/prbb_beach.png)
 
 The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) will be in Barcelona this year. Justine will present our new R package `conformeR` in a short talk. Congrats, Justine! 
 
