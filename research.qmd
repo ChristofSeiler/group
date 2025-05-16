@@ -6,9 +6,13 @@ title: "Current Projects"
 
 As many molecular biology labs and clinical research groups leverage modern AI systems in their workflows, we need tools that quantify their uncertainty to uphold scientific standards. In the past, we relied on statistical uncertainty quantification in the form of p-values and confidence intervals. Almost every paper reported those quantities and allowed us to judge the credibility of a research discovery. This common statistical language—although not without its critics—allowed us to focus our resources towards the most promising discoveries. How can we quantify our level of surprise of a discovery from prediction models in a similar fashion?
 
-In this project, we will build the [RAI Platform] that will help researchers in biomedicine to quantify uncertainty for their prediction models. We will use recent advances in statistics and machine learning—the so-called conformal prediction framework—to add prediction intervals to their models. The researchers will upload their models and part of their data on our platform website. We will then build prediction intervals for their models and deliver them back to the researchers as a download.
+In this project, we will build---in collaboratin with [Oliver Distler](https://www.usz.ch/en/team/oliver-distler/), [Michael Krauthammer](https://krauthammerlab.ch/authors/michaelkrauthammer/), and [Bjoern Menze](https://www.dqbm.uzh.ch/en/research/menze/team/team-bjoern-menze.html)---the [RAI Platform] that will help researchers in biomedicine to quantify uncertainty for their prediction models. We will use recent advances in statistics and machine learning—the so-called conformal prediction framework—to add prediction intervals to their models. The researchers will upload their models and part of their data on our platform website. We will then build prediction intervals for their models and deliver them back to the researchers as a download.
 
 ![Our four-step platform workflow](photos/rai.png){width=640 fig-align="center"}
+
+* Upload Your Prediction Model?
+
+Are you interested in adding prediction intervals to your prediction model? Please contact us to start a collaboration!
 
 ### Software
 
