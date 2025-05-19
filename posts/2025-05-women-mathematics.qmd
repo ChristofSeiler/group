@@ -2,7 +2,7 @@
 title: "Women in Mathematics"
 description: "International Day of Women in Mathematics"
 author: "Justine Leclerc"
-date: "2025-05-16"
+date: "2025-05-19"
 categories: "Conferences"
 image: "../photos/epfl.jpg"
 ---

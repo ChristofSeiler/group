@@ -2,7 +2,7 @@
 title: "Presentation of `conformeR`"
 description: "European Bioconductor Conference 2025"
 author: "Christof Seiler"
-date: "2025-05-12"
+date: "2025-05-19"
 categories: "Conferences"
 image: "../photos/prbb_beach.png"
 ---
