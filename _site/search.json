@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "workwithus.html",
+    "href": "workwithus.html",
+    "title": "Working With Us",
+    "section": "",
+    "text": "Current Openings\nIf we are hiring for a specific position, we will post it here.\n\n\nYour Own Idea\nThere are always opportunities for visiting bachelor and master students, PhD candidates, and postdocs to join our group by submitting grant proposals to fund your own idea. Here some recurring funding sources:\n\nDigital Society Initiative Excellence Program (PhD)\nUniversity of Zurich funding for postocs\nVisiting students traineeships\n\nPlease contact Christof Seiler with your CV to discuss and find connections!\n\n\nGraduate School\nPhD candidates will be part of a PhD program. For our group, one of these two graduate programs are usually a good fit:\n\nPhD Program in Epidemiology and Biostatistics\nPhD Program in Data Science"
+  },
+  {
+    "objectID": "people/christof-seiler.html",
+    "href": "people/christof-seiler.html",
+    "title": "Christof Seiler",
+    "section": "",
+    "text": "Web: personal website\nGoogle Scholar: fxMt84EAAAAJ\nGitHub: christofseiler\n\n\nI am an assistant professor of statistics in the Department of Advanced Computing Sciences at Maastricht University, and a principal investigator in the Center of Experimental Rheumatology at University Hospital Zurich and University of Zurich. I received my academic training at Stanford University, Inria, and University of Bern."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhD Candidate\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html#collaborators",
+    "href": "people.html#collaborators",
+    "title": "People",
+    "section": "Collaborators",
+    "text": "Collaborators\nWe collaborate very closely with all groups of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. We also have several external collaborations. Here is a non-exhaustive list.\n\n\n\nMarco Guazzini\nRisk Manager at APG Asset Management, Amsterdam, The Netherlands\n\n\nAlexander Reisach\nPhD Candidate at Université Paris Cité, Paris, France\n\n\nSebastian Weichwald\nAssociate Professor at University of Copenhagen, Copenhagen, Denmark"
+  },
+  {
+    "objectID": "posts/2025-05-eurobioc-barcelona.html",
+    "href": "posts/2025-05-eurobioc-barcelona.html",
+    "title": "Presentation of conformeR",
+    "section": "",
+    "text": "Location: Barcelona, Spain"
+  },
+  {
+    "objectID": "posts/2025-05-eurobioc-barcelona.html#conference",
+    "href": "posts/2025-05-eurobioc-barcelona.html#conference",
+    "title": "Presentation of conformeR",
+    "section": "Conference",
+    "text": "Conference\n\n\n\nConference venue\n\n\nThe European Bioconductor Conference will be in Barcelona this year. Justine will present our new R package conformeR in a short talk. Congrats, Justine!\nStay tuned for updates!"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Christof Seiler\nCenter of Experimental Rheumatology\nDepartment of Rheumatology\nUniversity Hospital Zurich, University of Zurich\nWagistrasse 14, 8952 Schlieren\nSwitzerland\n\nEmail: christof.seiler &lt;at&gt; usz.ch"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "RAI Platform\nAs many molecular biology labs and clinical research groups leverage modern AI systems in their workflows, we need tools that quantify their uncertainty to uphold scientific standards. In the past, we relied on statistical uncertainty quantification in the form of p-values and confidence intervals. Almost every paper reported those quantities and allowed us to judge the credibility of a research discovery. This common statistical language—although not without its critics—allowed us to focus our resources towards the most promising discoveries. How can we quantify our level of surprise of a discovery from prediction models in a similar fashion?\nIn this project, we will build—in collaboration with Oliver Distler, Michael Krauthammer, and Bjoern Menze—the RAI Platform that will help researchers in biomedicine to quantify uncertainty for their prediction models. We will use recent advances in statistics and machine learning—the so-called conformal prediction framework—to add prediction intervals to their models. The researchers will upload their models and part of their data on our platform website. We will then build prediction intervals for their models and deliver them back to the researchers as a download.\n\n\n\n\n\n\n\nOur four-step platform workflow\n\n\n\nUpload Your Prediction Model?\n\nAre you interested in adding prediction intervals to your prediction model? Please contact us to start a collaboration!\n\n\nSoftware\nWe contribute to the Bioconductor project.\n\n\n\n\n\n\n\nR\n\n\n\ncellpaintr\nAnalyze CRISPR and drug perturbations with CellProfiler features\n\n\nspillR\nMixture model to compensate for spillover in mass cytometry data\n\n\nCytoGLMM\nA bootstrapped generalized linear model for mass cytometry data\n\n\n\n\n\n\nPython\n\n\n\nCausalDisco\nBaseline algorithms and analytics tools for causal discovery\n\n\n\n\n\nFunding\n\nThe RAI Platform is funded by the Digital Society Initiative (DSI) Infrastructure and Lab program. The DSI shapes the digital transformation of society and science. It is the University of Zurich’s competence center for digital transformation."
+  },
+  {
+    "objectID": "posts/2025-03-benchmarking-ascona.html",
+    "href": "posts/2025-03-benchmarking-ascona.html",
+    "title": "Presentation of RAI Platform",
+    "section": "",
+    "text": "Location: Ascona, Switzerland"
+  },
+  {
+    "objectID": "posts/2025-03-benchmarking-ascona.html#conference",
+    "href": "posts/2025-03-benchmarking-ascona.html#conference",
+    "title": "Presentation of RAI Platform",
+    "section": "Conference",
+    "text": "Conference\n\n\n\nConference group picture\n\n\nIn March 2025, we had the privilege of attending the Ascona Workshop to present our RAI Platform project (slides are available here). Co-organized by Prof. Mark Robinson (University of Zurich) and Prof. Jean Yang (University of Sydney), this three-day event at Monte Verità brought together numerous contributors to scientific research.\nAt the heart of the conference was a shared goal: to present the latest benchmarking studies in bioinformatics, computational biology, and molecular biology, while also engaging in collective reflection on the principles and guidelines our scientific community wishes to establish for benchmarking.\nThis reflection raised complex and essential questions: How can we ensure the scientific integrity of benchmarking studies? How can we promote transparency in data analysis and simulation procedures? How do we move toward shared evaluation standards? And more broadly, how can we foster stronger scientific collaboration and knowledge-sharing across research groups? How do we teach and convey to the next generation of researchers the tremendous value of scientific cooperation—beyond individual ambition? Benchmarking is a relatively new yet increasingly central area of research, playing a prominent role in recent scientific publications. A typical benchmarking study brings together a team of researchers to compare existing methods that address a specific scientific question. Based on scientifically sound and relevant evaluation criteria, each method is tested and compared using either synthetic datasets (which offer the advantage of including a known ground truth—allowing, for example, false discovery rates and true positive rates to be measured in classification tasks) or real-world datasets, which can be used for tasks such as power analysis.\nThe contribution of benchmarking is far from negligible. It enables the scientific community to efficiently identify the most suitable method depending on the problem at hand, the resources available, and other contextual factors. Just as importantly, it helps method developers pinpoint areas where their approaches can be improved.\nBeyond the scientific aspects, we also enjoyed a beautiful excursion to Brissago Island, just off the coast of Ascona, where we explored its rich historical and botanical heritage. Finally, the workshop offered a fantastic opportunity to meet fellow researchers from around the world—including the US, Australia, Germany, and Spain—from early-career PhD students to renowned bioinformatics figures such as Matt Ritchie, one of the co-creators of the limma R-package, with whom I had the honor of sharing breakfast."
+  },
+  {
+    "objectID": "posts/2025-05-women-mathematics.html",
+    "href": "posts/2025-05-women-mathematics.html",
+    "title": "Women in Mathematics",
+    "section": "",
+    "text": "Location: Lausanne, Switzerland"
+  },
+  {
+    "objectID": "posts/2025-05-women-mathematics.html#conference",
+    "href": "posts/2025-05-women-mathematics.html#conference",
+    "title": "Women in Mathematics",
+    "section": "Conference",
+    "text": "Conference\n\n\n\nEPFL campus\n\n\nOn May 15–16, 2025, the first edition of the “Women in Mathematics” conference took place, hosted by EPFL. The program featured two full days of inspiring talks by women in mathematics—ranging from PhD students and postdocs to full professors—who presented their current research. The range of topics covered highlighted the immense diversity of mathematics as a discipline: PDEs, Lie theory, biostatistics, machine learning, econometrics, functional analysis, geometry, polynomial theory, knot theory, and more. Just as impressive as the topics themselves were the backgrounds of the speakers—women from France, Italy, Russia, China, India, and Iran—each with a unique path and set of opportunities that led them to a career in mathematics.\nIn addition to these rigorous scientific contributions, the conference hosted a roundtable featuring four established mathematicians: Francesca Da Lio (ETH Zurich), Susanna Zimmerman (University of Basel), Antonietta Mira (USI, Insubria), and Donna Testermann (EPFL). They shared candid reflections: What advice do they wish they had received as young researchers? Who inspired them? What sacrifices did they make to balance academic careers with their private lives? These are the very questions many young researchers like myself grapple with—and the insights shared during this session were deeply encouraging.\nUltimately, these two days offered a meaningful opportunity to build connections with fellow young women in mathematics—to exchange ideas about our fields of research, but also about our lived experiences as women in academia.\nI sincerely hope the conference will return for another edition next year!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Reliable AI Lab",
+    "section": "",
+    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 19 May 2025, 09:46 CEST"
+  },
+  {
+    "objectID": "people/justine-leclerc.html",
+    "href": "people/justine-leclerc.html",
+    "title": "Justine Leclerc",
+    "section": "",
+    "text": "ORCID: 0009-0002-5667-0778\nLinkedIn: juslecl\n\n\nI was born and raised in Paris, and also pursued there my bachelor, more precisely a double-degree in Mathematics and Social Sciences within Paris 1 Panthéon Sorbonne University and Sciences Po. I spent the third and last year of the bachelor at the University of Vienna. I finally came in 2023 in Zürich to complete my Master’s degree in Statistics at ETH. Last autumn semester I wrote my thesis under the supervision of Prof. Dr. Fadoua Balabdaoui (Seminar für Statistik), studying linear regression with known error distribution. Goal was to challenge the traditional OLSE (not assuming anything about the noise distribution) with alternative estimators, and in particular the MLE.\nDuring my PhD, I will work with Dr. Christof Seiler at the Department of Rheumatology at USZ on the creation of a platform enhancing reliability of AI in biomedicine (Platform RAI, an Initiative together with the Digital Society Initiative of UZH). A main subject of my study will thus be conformal prediction"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "Presentation of RAI Platform\n\n\n\nConferences\n\n\n\nFirst Conference on Modern Benchmarking\n\n\n\n\n\n2025-05-19\n\n\nJustine Leclerc\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation of conformeR\n\n\n\nConferences\n\n\n\nEuropean Bioconductor Conference 2025\n\n\n\n\n\n2025-05-19\n\n\nChristof Seiler\n\n\n\n\n\n\n\n\n\n\n\n\nWomen in Mathematics\n\n\n\nConferences\n\n\n\nInternational Day of Women in Mathematics\n\n\n\n\n\n2025-05-19\n\n\nJustine Leclerc\n\n\n\n\n\nNo matching items"
+  }
+]

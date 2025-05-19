@@ -1,0 +1,17 @@
+[
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/christof-seiler.html",
+      "/people/justine-leclerc.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-03-benchmarking-ascona.html",
+      "/posts/2025-05-eurobioc-barcelona.html",
+      "/posts/2025-05-women-mathematics.html"
+    ]
+  }
+]
