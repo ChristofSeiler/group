@@ -25,7 +25,7 @@
     "href": "people.html#collaborators",
     "title": "People",
     "section": "Collaborators",
-    "text": "Collaborators\nWe collaborate very closely with all groups of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. We also have several external collaborations. Here is a non-exhaustive list.\n\n\n\nMarco Guazzini\nRisk Manager at APG Asset Management, Amsterdam, The Netherlands\n\n\nAlexander Reisach\nPhD Candidate at Université Paris Cité, Paris, France\n\n\nSebastian Weichwald\nAssociate Professor at University of Copenhagen, Copenhagen, Denmark"
+    "text": "Collaborators\nWe collaborate very closely with all groups of the Department of Rheumatology. We also have several external collaborations. Here is a non-exhaustive list.\n\n\n\nKristian van Kuijk\nData Scientist at ASML, Eindhoven, The Netherlands\n\n\nMarco Guazzini\nRisk Manager at APG Asset Management, Amsterdam, The Netherlands\n\n\nAlexander Reisach\nPhD Candidate at Université Paris Cité, Paris, France\n\n\nSebastian Weichwald\nAssociate Professor at University of Copenhagen, Copenhagen, Denmark"
   },
   {
     "objectID": "posts/2025-05-eurobioc-barcelona.html",
@@ -88,7 +88,7 @@
     "href": "index.html",
     "title": "Welcome to the Reliable AI Lab",
     "section": "",
-    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 19 May 2025, 18:07 CEST"
+    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 20 May 2025, 12:18 CEST"
   },
   {
     "objectID": "people/justine-leclerc.html",

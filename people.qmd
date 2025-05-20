@@ -32,10 +32,11 @@ format:
 
 ## Collaborators
 
-We collaborate very closely with all groups of the [Department of Rheumatology] at the University Hospital Zurich and University of Zurich. We also have several external collaborations. Here is a non-exhaustive list.
+We collaborate very closely with all groups of the [Department of Rheumatology]. We also have several external collaborations. Here is a non-exhaustive list.
 
 |                          |                       |
 | ------------------------ | --------------------- |
+| **Kristian van Kuijk**   | [Data Scientist](https://kristianvk.github.io) at ASML, Eindhoven, The Netherlands |
 | **Marco Guazzini**       | [Risk Manager](https://www.linkedin.com/in/marco-guazzini-92a9111b9/) at APG Asset Management, Amsterdam, The Netherlands |
 | **Alexander Reisach**    | [PhD Candidate](https://scriddie.github.io) at Université Paris Cité, Paris, France |
 | **Sebastian Weichwald**  | [Associate Professor](https://sweichwald.de) at University of Copenhagen, Copenhagen, Denmark |
