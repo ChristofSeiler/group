@@ -1,0 +1,15 @@
+---
+title: "Malaika Paddison"
+description: "Bachelor Student"
+image: "malaika-paddison-thmbnail.jpg"
+---
+
+![](malaika-paddison.jpg){width=300 fig-align="center"}
+
+>LinkedIn: [malaika-paddison-514774209](https://www.linkedin.com/in/malaika-paddison-514774209/)\
+
+I am a third-year Bachelor's student in Biomedical Sciences at Maastricht University, with a strong interdisciplinary focus in bioinformatics, data science, and mental health research. I have a systems-level approach to understanding the biological underpinnings of biological problems. Through a combination of coursework and hands-on experience, I've already completed over 800 hours of bioinformatics internships and 480 hours in clinical settings, equipping me with a well-rounded perspective on translational healthcare research. During my BSc, I minored in bioinformatics, and my upcoming thesis applies genome-wide association study (GWAS) techniques to investigate the genetic correlates of depression, hippocampal activation, and episodic memory. In my free time, I enjoy swimming, reading, and running! 
+
+During my internship, I will be working on the development of the [cellpaintr] package in R, specifically in translating the already existing software, pycytominer, from Python to R. The existing software is "Designed for biologists!" and used in biological image processing, specifically looking at single cell images, extracting features, and measuring phenotypes of interest. The goal is to enable reproducible, scalable single cell bioimage analysis for CRISPR and drug perturbation studies, leveraging R’s ecosystem while maintaining compatibility with CellProfiler’s outputs. The resulting tools will support automated quantification of cell phenotypes under different treatment conditions (e.g., disease vs. control). 
+
+{{< include ../_links.qmd >}}
