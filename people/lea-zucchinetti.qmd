@@ -1,0 +1,13 @@
+---
+title: "Léa Zucchinetti"
+description: "Master Student"
+image: "lea-zucchinetti-thumbnail.jpg"
+---
+
+![](lea-zucchinetti.jpg){width=300 fig-align="center"}
+
+>GitHub: [lzucchine](https://github.com/lzucchine)\
+
+After completing a Bachelor's degree in Environmental Sciences and Engineering at EPFL, where I spent a year at the University of British Columbia, I took courses in Agricultural Plant Sciences at ETH Zurich. This education increased my understanding of the environmental crises we face and motivated my involvement in climate activism.
+
+Currently, I am pursuing a Master's degree in Statistics at ETH Zurich. My master's thesis investigates the causal impact of climate protests on media coverage and aims to quantify the uncertainty in the estimates using conformal prediction.

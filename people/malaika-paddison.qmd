@@ -1,7 +1,7 @@
 ---
 title: "Malaika Paddison"
 description: "Bachelor Student"
-image: "malaika-paddison-thmbnail.jpg"
+image: "malaika-paddison-thumbnail.jpg"
 ---
 
 ![](malaika-paddison.jpg){width=300 fig-align="center"}
