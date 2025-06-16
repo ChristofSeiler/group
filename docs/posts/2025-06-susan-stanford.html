@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Christof Seiler">
+<meta name="dcterms.date" content="2025-06-16">
+<meta name="description" content="A Conference in Honor of Susan Holmes">
 
-<title>Posts – Reliable AI Lab</title>
+<title>Bridging Biology and Statistics – Reliable AI Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +26,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0c5375fd64066b80f8ac3fd6fcab12b0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-de070a7b0ab54f8780927367ac907214.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-0c5375fd64066b80f8ac3fd6fcab12b0.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,69 +73,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <meta http-equiv="Cache-Control" content="max-age=1800, must-revalidate"> 
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<meta property="og:title" content="Posts – Reliable AI Lab">
-<meta property="og:image" content="./photos/stanford_campus.jpg">
+<meta property="og:title" content="Bridging Biology and Statistics – Reliable AI Lab">
+<meta property="og:description" content="A Conference in Honor of Susan Holmes">
+<meta property="og:image" content="../photos/stanford_campus.jpg">
 <meta property="og:site_name" content="Reliable AI Lab">
 <meta property="og:locale" content="en_US">
 </head>
@@ -143,7 +90,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Reliable AI Lab</span>
     </a>
   </div>
@@ -154,27 +101,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./workwithus.html"> 
+    <a class="nav-link" href="../workwithus.html"> 
 <span class="menu-text">Working With Us</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./posts.html" aria-current="page"> 
+    <a class="nav-link" href="../posts.html"> 
 <span class="menu-text">Posts</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link" href="../contact.html"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -185,25 +132,51 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Q29uZmVyZW5jZXM=">Conferences <span class="quarto-category-count">(4)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#conference" id="toc-conference" class="nav-link active" data-scroll-target="#conference">Conference</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Posts</h1>
+<h1 class="title">Bridging Biology and Statistics</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Conferences</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    A Conference in Honor of Susan Holmes
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<div class="quarto-title-meta column-page-left">
-
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Christof Seiler </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">2025-06-16</p>
+    </div>
+  </div>
   
     
   </div>
@@ -213,135 +186,24 @@ window.Quarto = {
 </header>
 
 
+<blockquote class="blockquote">
+<p>Location: Stanford, CA, United States<br>
+</p>
+</blockquote>
+<section id="conference" class="level2">
+<h2 class="anchored" data-anchor-id="conference">Conference</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="../photos/stanford_susan_group.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Conference group picture"><img src="../photos/stanford_susan_group.jpg" class="img-fluid figure-img" alt="Conference group picture"></a></p>
+<figcaption>Conference group picture</figcaption>
+</figure>
+</div>
+<p>I really enjoyed being back at Stanford for a conference on <a href="https://statistics.stanford.edu/events/bridging-biology-and-statistics-insights-and-innovations-modern-biology">Bridging Biology and Statistics</a> to celebrate Susan’s career and her scientific achievements at the interface of statistics and modern biology. It was great to see everyone after such a long time! <a href="https://photos.app.goo.gl/apvz3YbWC53W4Huc7" target="_blank">Here</a> are more pictures of the conference. I hope to see you soon!</p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Q29uZmVyZW5jZXM=" data-listing-date-sort="1750024800000" data-listing-file-modified-sort="1750065361306" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="62">
-<div class="thumbnail"><a href="./posts/2025-06-susan-stanford.html" class="no-external">
-
-<img loading="lazy" src="./photos/stanford_campus.jpg" class="thumbnail-image" style="height: 100px;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-06-susan-stanford.html" class="no-external">Bridging Biology and Statistics</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZXM='); return false;">Conferences</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2025-06-susan-stanford.html" class="no-external">
-<p>A Conference in Honor of Susan Holmes</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-06-susan-stanford.html" class="no-external">
-<div class="listing-date">
-2025-06-16
-</div>
-<div class="listing-author">
-Christof Seiler
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Q29uZmVyZW5jZXM=" data-listing-date-sort="1747605600000" data-listing-file-modified-sort="1747640629341" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="383">
-<div class="thumbnail"><a href="./posts/2025-03-benchmarking-ascona.html" class="no-external">
-
-<img loading="lazy" src="./photos/2024-03-24-ascona.jpg" class="thumbnail-image" style="height: 100px;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-03-benchmarking-ascona.html" class="no-external">Presentation of RAI Platform</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZXM='); return false;">Conferences</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2025-03-benchmarking-ascona.html" class="no-external">
-<p>First Conference on Modern Benchmarking</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-03-benchmarking-ascona.html" class="no-external">
-<div class="listing-date">
-2025-05-19
-</div>
-<div class="listing-author">
-Justine Leclerc
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Q29uZmVyZW5jZXM=" data-listing-date-sort="1747605600000" data-listing-file-modified-sort="1747640642016" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="thumbnail"><a href="./posts/2025-05-eurobioc-barcelona.html" class="no-external">
-
-<img loading="lazy" src="./photos/prbb_beach.png" class="thumbnail-image" style="height: 100px;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-05-eurobioc-barcelona.html" class="no-external">Presentation of <code>conformeR</code></a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZXM='); return false;">Conferences</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2025-05-eurobioc-barcelona.html" class="no-external">
-<p>European Bioconductor Conference 2025</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-05-eurobioc-barcelona.html" class="no-external">
-<div class="listing-date">
-2025-05-19
-</div>
-<div class="listing-author">
-Christof Seiler
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Q29uZmVyZW5jZXM=" data-listing-date-sort="1747605600000" data-listing-file-modified-sort="1747640648030" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="242">
-<div class="thumbnail"><a href="./posts/2025-05-women-mathematics.html" class="no-external">
-
-<img loading="lazy" src="./photos/epfl.jpg" class="thumbnail-image" style="height: 100px;">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2025-05-women-mathematics.html" class="no-external">Women in Mathematics</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Q29uZmVyZW5jZXM='); return false;">Conferences</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2025-05-women-mathematics.html" class="no-external">
-<p>International Day of Women in Mathematics</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2025-05-women-mathematics.html" class="no-external">
-<div class="listing-date">
-2025-05-19
-</div>
-<div class="listing-author">
-Justine Leclerc
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -742,6 +604,38 @@ Justine Leclerc
   });
   </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

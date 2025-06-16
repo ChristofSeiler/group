@@ -1,0 +1,16 @@
+---
+title: "Bridging Biology and Statistics"
+description: "A Conference in Honor of Susan Holmes"
+author: "Christof Seiler"
+date: "2025-06-16"
+categories: "Conferences"
+image: "../photos/stanford_campus.jpg"
+---
+
+> Location: Stanford, CA, United States\
+
+## Conference
+
+![Conference group picture](../photos/stanford_susan_group.jpg)
+
+I really enjoyed being back at Stanford for a conference on [Bridging Biology and Statistics](https://statistics.stanford.edu/events/bridging-biology-and-statistics-insights-and-innovations-modern-biology) to celebrate Susan's career and her scientific achievements at the interface of statistics and modern biology. It was great to see everyone after such a long time! [Here](https://photos.app.goo.gl/apvz3YbWC53W4Huc7){target="_blank"} are more pictures of the conference. I hope to see you soon!
