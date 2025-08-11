@@ -1,6 +1,7 @@
 ---
 title: "Léa Zucchinetti"
 description: "Master Student"
+date-meta: 2025-04-01
 image: "lea-zucchinetti-thumbnail.jpg"
 ---
 

@@ -1,3 +1,4 @@
+[conformeR]: https://github.com/juslecl/conformeR
 [cellpaintr]: https://github.com/christofseiler/cellpaintr
 [spillR]: https://bioconductor.org/packages/spillR
 [CytoGLMM]: https://bioconductor.org/packages/CytoGLMM

@@ -21,9 +21,10 @@ We contribute to the Bioconductor project.
 |              |                                    |
 |--------------|------------------------------------|
 | **R**        |                                    |
+| [conformeR]  | Conformalized differential expression analysis of single-cell data |
 | [cellpaintr] | Analyze CRISPR and drug perturbations with CellProfiler features |
-| [spillR] | Mixture model to compensate for spillover in mass cytometry data |
-| [CytoGLMM] | A bootstrapped generalized linear model for mass cytometry data |
+| [spillR]     | Mixture model to compensate for spillover in mass cytometry data |
+| [CytoGLMM]   | A bootstrapped generalized linear model for mass cytometry data  |
 | | |
 | **Python**   |                                    |
 | [CausalDisco](https://causaldisco.github.io/CausalDisco/) | Baseline algorithms and analytics tools for causal discovery |

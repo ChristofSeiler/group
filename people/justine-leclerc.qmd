@@ -1,6 +1,7 @@
 ---
 title: "Justine Leclerc"
 description: "PhD Candidate"
+date-meta: 2025-03-15
 image: "justine-leclerc-480x480.jpg"
 ---
 

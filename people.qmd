@@ -3,7 +3,7 @@ title: "People"
 listing:
   contents: people
   type: grid
-  sort: "title asc"
+  sort: "date-meta asc"
   date-format: "YYYY-MM-DD"
   grid-columns: 4
   grid-item-border: true

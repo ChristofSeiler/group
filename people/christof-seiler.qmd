@@ -1,6 +1,7 @@
 ---
 title: "Christof Seiler"
 description: "Principal Investigator"
+date-meta: 2023-09-01
 image: "christof-seiler-thumbnail.jpg"
 ---
 
