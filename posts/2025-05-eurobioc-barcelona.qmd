@@ -1,8 +1,8 @@
 ---
-title: "Presentation of `conformeR`"
+title: "Presentation of `conformeR` and `cellpaintr`"
 description: "European Bioconductor Conference 2025"
 author: "Christof Seiler"
-date: "2025-05-19"
+date: "2025-09-04"
 categories: "Conferences"
 image: "../photos/prbb_beach.png"
 ---
@@ -13,6 +13,11 @@ image: "../photos/prbb_beach.png"
 
 ![Conference venue](../photos/prbb_beach.png)
 
-The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) will be in Barcelona this year. Justine will present our new R package `conformeR` in a short talk. Congrats, Justine! 
+The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) will be in Barcelona this year. Our contributions:
 
-Stay tuned for updates!
+* Justine will present our new R package `conformeR` in a short talk. We propose to leverage prediction models in single-cell differential expression analysis. Congrats, Justine!
+* Christof will present our new R package `cellpaintr`. We propose to analyze CellProfiler features following a standard single-cell workflow. Here is the [poster](https://doi.org/10.5281/zenodo.16992887).
+
+Both [conformeR] and [cellpaintr] are available on GitHub.
+
+{{< include ../_links.qmd >}}

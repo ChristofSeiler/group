@@ -37,16 +37,16 @@
   {
     "objectID": "posts/2025-05-eurobioc-barcelona.html",
     "href": "posts/2025-05-eurobioc-barcelona.html",
-    "title": "Presentation of conformeR",
+    "title": "Presentation of conformeR and cellpaintr",
     "section": "",
     "text": "Location: Barcelona, Spain"
   },
   {
     "objectID": "posts/2025-05-eurobioc-barcelona.html#conference",
     "href": "posts/2025-05-eurobioc-barcelona.html#conference",
-    "title": "Presentation of conformeR",
+    "title": "Presentation of conformeR and cellpaintr",
     "section": "Conference",
-    "text": "Conference\n\n\n\nConference venue\n\n\nThe European Bioconductor Conference will be in Barcelona this year. Justine will present our new R package conformeR in a short talk. Congrats, Justine!\nStay tuned for updates!"
+    "text": "Conference\n\n\n\nConference venue\n\n\nThe European Bioconductor Conference will be in Barcelona this year. Our contributions:\n\nJustine will present our new R package conformeR in a short talk. We propose to leverage prediction models in single-cell differential expression analysis. Congrats, Justine!\nChristof will present our new R package cellpaintr. We propose to analyze CellProfiler features following a standard single-cell workflow. Here is the poster.\n\nBoth conformeR and cellpaintr are available on GitHub."
   },
   {
     "objectID": "posts/2025-03-benchmarking-ascona.html",
@@ -109,7 +109,7 @@
     "href": "index.html",
     "title": "Welcome to the Reliable AI Lab",
     "section": "",
-    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 03 Sep 2025, 17:03 CEST"
+    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 04 Sep 2025, 10:41 CEST"
   },
   {
     "objectID": "people/justine-leclerc.html",
@@ -130,6 +130,6 @@
     "href": "posts.html",
     "title": "Posts",
     "section": "",
-    "text": "Bridging Biology and Statistics\n\n\n\nConferences\n\n\n\nA Conference in Honor of Susan Holmes\n\n\n\n\n\n2025-06-16\n\n\nChristof Seiler\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation of RAI Platform\n\n\n\nConferences\n\n\n\nFirst Conference on Modern Benchmarking\n\n\n\n\n\n2025-05-19\n\n\nJustine Leclerc\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation of conformeR\n\n\n\nConferences\n\n\n\nEuropean Bioconductor Conference 2025\n\n\n\n\n\n2025-05-19\n\n\nChristof Seiler\n\n\n\n\n\n\n\n\n\n\n\n\nWomen in Mathematics\n\n\n\nConferences\n\n\n\nInternational Day of Women in Mathematics\n\n\n\n\n\n2025-05-19\n\n\nJustine Leclerc\n\n\n\n\n\nNo matching items"
+    "text": "Presentation of conformeR and cellpaintr\n\n\n\nConferences\n\n\n\nEuropean Bioconductor Conference 2025\n\n\n\n\n\n2025-09-04\n\n\nChristof Seiler\n\n\n\n\n\n\n\n\n\n\n\n\nBridging Biology and Statistics\n\n\n\nConferences\n\n\n\nA Conference in Honor of Susan Holmes\n\n\n\n\n\n2025-06-16\n\n\nChristof Seiler\n\n\n\n\n\n\n\n\n\n\n\n\nPresentation of RAI Platform\n\n\n\nConferences\n\n\n\nFirst Conference on Modern Benchmarking\n\n\n\n\n\n2025-05-19\n\n\nJustine Leclerc\n\n\n\n\n\n\n\n\n\n\n\n\nWomen in Mathematics\n\n\n\nConferences\n\n\n\nInternational Day of Women in Mathematics\n\n\n\n\n\n2025-05-19\n\n\nJustine Leclerc\n\n\n\n\n\nNo matching items"
   }
 ]
