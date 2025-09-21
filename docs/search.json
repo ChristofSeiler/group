@@ -46,7 +46,7 @@
     "href": "posts/2025-05-eurobioc-barcelona.html#conference",
     "title": "Presentation of conformeR and cellpaintr",
     "section": "Conference",
-    "text": "Conference\n\n\n\nConference venue\n\n\nThe European Bioconductor Conference will be in Barcelona this year. Our contributions:\n\nJustine will present our new R package conformeR in a short talk. We propose to leverage prediction models in single-cell differential expression analysis. Congrats, Justine!\nChristof will present our new R package cellpaintr. We propose to analyze CellProfiler features following a standard single-cell workflow. Here is the poster.\n\nBoth conformeR and cellpaintr are available on GitHub."
+    "text": "Conference\n\n\n\nConference group picture\n\n\nThe European Bioconductor Conference took place in Barcelona this year. Our contributions:\n\nJustine presented our new R package conformeR in a short talk. We propose to leverage prediction models in single-cell differential expression analysis. Congrats, Justine! Here are the slides.\nChristof presented our new R package cellpaintr. We propose to analyze CellProfiler features following a standard single-cell workflow. Here is the poster.\n\nBoth conformeR and cellpaintr are available on GitHub."
   },
   {
     "objectID": "posts/2025-03-benchmarking-ascona.html",
@@ -109,7 +109,7 @@
     "href": "index.html",
     "title": "Welcome to the Reliable AI Lab",
     "section": "",
-    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 04 Sep 2025, 10:41 CEST"
+    "text": "The Reliable AI Lab develops new statistical methods to analyze multi-omics data. We leverage prediction models from machine learning and make them fit for scientific purpose by quantifying their uncertainty. We build models that can learn biological causal mechanisms from experimental data. We are active contributors of bioinformatics software packages and maintain several R packages on Bioconductor. Recently, we have also started to work on statistical methods for the social sciences.\nOur lab is part of the Department of Rheumatology at the University Hospital Zurich and University of Zurich. The department covers the full spectrum of medical research from clinical studies in the hospital to molecular biology in the Center of Experimental Rheumatology.\n\nLast build: 21 Sep 2025, 17:30 CEST"
   },
   {
     "objectID": "people/justine-leclerc.html",

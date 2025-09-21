@@ -11,12 +11,12 @@ image: "../photos/prbb_beach.png"
 
 ## Conference
 
-![Conference venue](../photos/prbb_beach.png)
+![Conference group picture](../photos/eurobioc2025_group.jpeg)
 
-The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) will be in Barcelona this year. Our contributions:
+The [European Bioconductor Conference](https://eurobioc2025.bioconductor.org) took place in Barcelona this year. Our contributions:
 
-* Justine will present our new R package `conformeR` in a short talk. We propose to leverage prediction models in single-cell differential expression analysis. Congrats, Justine!
-* Christof will present our new R package `cellpaintr`. We propose to analyze CellProfiler features following a standard single-cell workflow. Here is the [poster](https://doi.org/10.5281/zenodo.16992887).
+* Justine presented our new R package `conformeR` in a short talk. We propose to leverage prediction models in single-cell differential expression analysis. Congrats, Justine! Here are the [slides](https://doi.org/10.5281/zenodo.17105707).
+* Christof presented our new R package `cellpaintr`. We propose to analyze CellProfiler features following a standard single-cell workflow. Here is the [poster](https://doi.org/10.5281/zenodo.16992887).
 
 Both [conformeR] and [cellpaintr] are available on GitHub.
 
