@@ -27,6 +27,7 @@ format:
 
 |                          |                       |
 | ------------------------ | --------------------- |
+| **Gianluca Randò**       | Master internship     |
 | **Léa Zucchinetti**      | Master thesis         |
 | **Ashkan Karimi Saber**  | Master internship     |
 | **Ming Yi**              | Master thesis         |
