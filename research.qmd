@@ -10,7 +10,7 @@ In this project, we will build---in collaboration with [Oliver Distler](https://
 
 ![Our four-step platform workflow](photos/rai.png){width=640 fig-align="center"}
 
-* Upload Your Prediction Model?
+#### Upload Your Prediction Model?
 
 Are you interested in adding prediction intervals to your prediction model? Please contact us to start a collaboration!
 
@@ -33,6 +33,6 @@ We contribute to the Bioconductor project.
 
 ### Funding
 
-* The RAI Platform is funded by the [Digital Society Initiative] (DSI) Infrastructure and Lab program. The DSI shapes the digital transformation of society and science. It is the University of Zurich's competence center for digital transformation.
+The RAI Platform is funded by the [Digital Society Initiative] (DSI) Infrastructure and Lab program. The DSI shapes the digital transformation of society and science. It is the University of Zurich's competence center for digital transformation.
 
 {{< include _links.qmd >}}

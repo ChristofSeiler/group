@@ -1,0 +1,45 @@
+---
+title: "Student Assistant in Computational Biology and Bioinformatics"
+description: "Image Data Analysis"
+author: "Christof Seiler"
+date: "2026-003-04"
+categories: "Positions"
+image: "../photos/cellpaintr-logo-thumbnail.png"
+---
+
+> Location: Schlieren, Switzerland\
+
+## Position
+
+- Employment: 40% for one year as a student assistants with Bachelor’s degree
+- Start date: April 1, 2026 or as soon as possible
+
+## Your Tasks
+
+::: {.column-margin}
+![](../photos/cellpaintr-logo.png)
+:::
+
+- Build a computational pipeline for drug screening in synovial fibroblasts 
+- Work together with both computational people and molecular biologists
+- Prepare our R package [cellpaintr](https://doi.org/10.5281/zenodo.16992887) for submission to Bioconductor
+- Add new features to jointly analyze multiple assays and handle small sample sizes
+
+## Your Profile
+
+- Master’s student for the entire duration of the contract
+- Bachelor’s degree in computer science, mathematics, or physics
+- Experience analyzing biological data, ideally cell imaging data
+- Experience with version control and high-performance computing
+- Excellent programming skills in R and Python
+- Bonus: Familiar with [CellProfiler](https://cellprofiler.org/) and [Bioconductor](https://www.bioconductor.org)
+
+## Application Material
+
+- Link to your GitHub repository
+- Highlight one repository
+- CV
+
+Send your application material to `christof.seiler <at> usz.ch`. We will accept applications until the position is filled.
+
+{{< include ../_links.qmd >}}
